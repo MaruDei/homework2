@@ -8,6 +8,7 @@ th,
 td,
 caption {
   border: 1px solid black;
+  padding: 2px 3px;
 }
 caption {
   border-bottom: 0px;
@@ -16,3 +17,4 @@ caption {
 .vh {
   color: red;
 }
+
